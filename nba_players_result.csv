@@ -1,0 +1,130 @@
+{
+  "reportPlayerMetadata": {
+    "totalRead": 20,
+    "validRecords": 17,
+    "discardedRecords": 3,
+    "averagePointsPerGame": 26.86,
+    "generatedAt": "2026-11-10T08:54:59.731768700"
+  },
+  "data": [
+    {
+      "name": "LeBron James",
+      "team": "Lakers",
+      "pointsPerGame": 25.7,
+      "salary": 4.760735E7,
+      "gamesPlayed": 71
+    },
+    {
+      "name": "Stephen Curry",
+      "team": "Warriors",
+      "pointsPerGame": 26.4,
+      "salary": 5.1915615E7,
+      "gamesPlayed": 74
+    },
+    {
+      "name": "Giannis Antetokounmpo",
+      "team": "Bucks",
+      "pointsPerGame": 30.4,
+      "salary": 4.5640084E7,
+      "gamesPlayed": 73
+    },
+    {
+      "name": "Luka Doncic",
+      "team": "Mavericks",
+      "pointsPerGame": 33.9,
+      "salary": 4.006422E7,
+      "gamesPlayed": 70
+    },
+    {
+      "name": "Nikola Jokic",
+      "team": "Nuggets",
+      "pointsPerGame": 26.4,
+      "salary": 4.760735E7,
+      "gamesPlayed": 79
+    },
+    {
+      "name": "Jayson Tatum",
+      "team": "Celtics",
+      "pointsPerGame": 26.9,
+      "salary": 3.260006E7,
+      "gamesPlayed": 74
+    },
+    {
+      "name": "Kevin Durant",
+      "team": "Suns",
+      "pointsPerGame": 27.1,
+      "salary": 4.7649433E7,
+      "gamesPlayed": 75
+    },
+    {
+      "name": "Joel Embiid",
+      "team": "76ers",
+      "pointsPerGame": 34.7,
+      "salary": 4.760735E7,
+      "gamesPlayed": 39
+    },
+    {
+      "name": "Devin Booker",
+      "team": "Suns",
+      "pointsPerGame": 27.1,
+      "salary": 3.60162E7,
+      "gamesPlayed": 68
+    },
+    {
+      "name": "Shai Gilgeous-Alexander",
+      "team": "Thunder",
+      "pointsPerGame": 30.1,
+      "salary": 3.338685E7,
+      "gamesPlayed": 75
+    },
+    {
+      "name": "Anthony Edwards",
+      "team": "Timberwolves",
+      "pointsPerGame": 25.9,
+      "salary": 1.093252E7,
+      "gamesPlayed": 79
+    },
+    {
+      "name": "Tyrese Haliburton",
+      "team": "Pacers",
+      "pointsPerGame": 20.1,
+      "salary": 5800000.0,
+      "gamesPlayed": 69
+    },
+    {
+      "name": "De\u0027Aaron Fox",
+      "team": "Kings",
+      "pointsPerGame": 26.6,
+      "salary": 3.260006E7,
+      "gamesPlayed": 74
+    },
+    {
+      "name": "Donovan Mitchell",
+      "team": "Cavaliers",
+      "pointsPerGame": 26.6,
+      "salary": 3.260006E7,
+      "gamesPlayed": 55
+    },
+    {
+      "name": "Jimmy Butler",
+      "team": "Heat",
+      "pointsPerGame": 20.8,
+      "salary": 4.518396E7,
+      "gamesPlayed": 60
+    },
+    {
+      "name": "Bam Adebayo",
+      "team": "Heat",
+      "pointsPerGame": 19.3,
+      "salary": 3.260006E7,
+      "gamesPlayed": 71
+    },
+    {
+      "name": "Jalen Brunson",
+      "team": "Knicks",
+      "pointsPerGame": 28.7,
+      "salary": 2.6346666E7,
+      "gamesPlayed": 77
+    }
+  ]
+}
