@@ -8,5 +8,5 @@ import java.util.List;
 public interface PlayerLoader {
     List<Player> load(InputStream inputStream);
     int getDiscardedCount();
-    int getTotalreadCount();
+    int getTotalReadCount();
 }
