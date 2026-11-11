@@ -1,0 +1,21 @@
+name,team,pointsPerGame,salary,gamesPlayed
+LeBron James,Lakers,25.7,47607350,71
+Fila Invalida 1,SinNumeros,error,error,error
+Stephen Curry,Warriors,26.4,51915615,74
+Giannis Antetokounmpo,Bucks,30.4,45640084,73
+Luka Doncic,Mavericks,33.9,40064220,70
+Nikola Jokic,Nuggets,26.4,47607350,79
+Jayson Tatum,Celtics,26.9,32600060,74
+Kevin Durant,Suns,27.1,47649433,75
+Joel Embiid,76ers,34.7,47607350,39
+Fila Invalida 2,SinDatos,null,null,null
+Devin Booker,Suns,27.1,36016200,68
+Shai Gilgeous-Alexander,Thunder,30.1,33386850,75
+Anthony Edwards,Timberwolves,25.9,10932520,79
+Tyrese Haliburton,Pacers,20.1,5800000,69
+De'Aaron Fox,Kings,26.6,32600060,74
+Donovan Mitchell,Cavaliers,26.6,32600060,55
+Jimmy Butler,Heat,20.8,45183960,60
+Bam Adebayo,Heat,19.3,32600060,71
+Jalen Brunson,Knicks,28.7,26346666,77
+Fila Invalida 3,Vacio,,,
