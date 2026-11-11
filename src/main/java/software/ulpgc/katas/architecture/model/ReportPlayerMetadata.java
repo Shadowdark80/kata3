@@ -1,6 +1,6 @@
 package software.ulpgc.katas.architecture.model;
 
-public record PlayerMetadata(int totalRead,
+public record ReportPlayerMetadata(int totalRead,
                              int validRecords,
                              int discardedRecords,
                              double averagePointsPerGame,
