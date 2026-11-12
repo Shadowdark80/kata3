@@ -9,11 +9,11 @@ import java.io.OutputStream;
 import java.io.PrintWriter;
 import java.nio.charset.StandardCharsets;
 
-public class SerializeToJson implements ReportjsonSerializer {
+public class GsonPlayerSerializer implements ReportjsonSerializer {
 
     private final Gson gson;
 
-    public SerializeToJson() {
+    public GsonPlayerSerializer() {
         this.gson = new GsonBuilder().setPrettyPrinting().create();
     }
 
